@@ -1,7 +1,7 @@
-#🎨 Vaishali's Portfolio Website
+# Vaishali's Portfolio Website 🎨
 This repository contains the source code for my personal portfolio website, built using HTML and CSS. It showcases my educational background, skills, and achievements during my second year of engineering.
 
-#🖥️ Features
+# Features 🖥️
 Clean and Responsive Design:
 A visually appealing layout that adapts to various devices, providing an optimal viewing experience.
 
